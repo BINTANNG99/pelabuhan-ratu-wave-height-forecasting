@@ -27,7 +27,7 @@ That ordering is a methodological problem. A scaler fitted before a temporal spl
 The notebook also contains an absolute local path:
 
 ```text
-/Users/mac/Desktop/SKRIPSI CUMLAUDE/TA/Wave_Forecasting/data/TOTAL_WAVE_PR-C1_HsTpDir.txt
+/Users/mac/Desktop/.../TOTAL_WAVE_PR-C1_HsTpDir.txt
 ```
 
 This should be replaced before publication because it exposes a private filesystem layout and prevents another user from running the notebook without editing the path.
